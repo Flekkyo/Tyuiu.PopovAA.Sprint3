@@ -9,4 +9,9 @@
     <Project Path="Tyuiu.PopovAA.Sprint3.Task1.V20.Test/Tyuiu.PopovAA.Sprint3.Task1.V20.Test.csproj" />
     <Project Path="Tyuiu.PopovAA.Sprint3.Task1.V20/Tyuiu.PopovAA.Sprint3.Task1.V20.csproj" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.PopovAA.Sprint3.Task2.V4.Lib/Tyuiu.PopovAA.Sprint3.Task2.V4.Lib.csproj" />
+    <Project Path="Tyuiu.PopovAA.Sprint3.Task2.V4.Test/Tyuiu.PopovAA.Sprint3.Task2.V4.Test.csproj" />
+    <Project Path="Tyuiu.PopovAA.Sprint3.Task2.V4/Tyuiu.PopovAA.Sprint3.Task2.V4.csproj" />
+  </Folder>
 </Solution>
