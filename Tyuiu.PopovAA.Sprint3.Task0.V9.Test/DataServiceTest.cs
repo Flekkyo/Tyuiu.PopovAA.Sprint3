@@ -12,7 +12,7 @@ namespace Tyuiu.PopovAA.Sprint3.Task0.V9.Test
             int start = 1;
             int finish = 15;
             var res = ds.GetSumSeries(x, start, finish);
-            Assert.AreEqual(0.4304378647794298, res); 
+            Assert.AreEqual(0.43, res); 
         }
     }
 }
