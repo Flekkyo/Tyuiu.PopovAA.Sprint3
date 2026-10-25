@@ -32,7 +32,7 @@ namespace Tyuiu.PopovAA.Sprint3.Task1.V20
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.GetSumSeries(s, f));
+            Console.WriteLine(ds.GetSumSeries(s, f)); 
         }
     }
 }

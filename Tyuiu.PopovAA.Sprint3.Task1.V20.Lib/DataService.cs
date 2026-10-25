@@ -11,7 +11,7 @@ namespace Tyuiu.PopovAA.Sprint3.Task1.V20.Lib
                 res += Math.Pow(1 / Math.Cos(startValue), 2);
                 startValue += 1;
             }
-            return Math.Round(res, 2);
+            return Math.Round(res, 3); 
         }
     }
 }
