@@ -11,7 +11,7 @@ namespace Tyuiu.PopovAA.Sprint3.Task2.V4.Lib
                 res *= Math.Pow(startValue / Math.Pow(Math.Sin(1), -7), -2);
                 startValue += 1;
             } while (startValue <= stopValue);
-            return Math.Round(res, 4);
+            return Math.Round(res, 3);
         }
     }
 }
