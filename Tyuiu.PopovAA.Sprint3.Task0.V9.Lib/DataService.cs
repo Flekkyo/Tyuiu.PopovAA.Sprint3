@@ -10,7 +10,7 @@ namespace Tyuiu.PopovAA.Sprint3.Task0.V9.Lib
             {
                 res += Math.Pow(1 / (3 + Math.Pow(value, i)), i);
             }
-            return Math.Round(res, 2);
+            return Math.Round(res, 2); 
         }
     }
 }
