@@ -33,6 +33,6 @@ namespace Tyuiu.PopovAA.Sprint3.Task4.V29
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine(ds.Calculate(start, finish));
-        }
+        } 
     }
 }

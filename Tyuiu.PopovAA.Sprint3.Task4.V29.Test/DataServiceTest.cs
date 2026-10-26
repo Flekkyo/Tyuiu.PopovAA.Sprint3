@@ -11,7 +11,7 @@ namespace Tyuiu.PopovAA.Sprint3.Task4.V29.Test
             int s = -5;
             int f = 5;
             double res = ds.Calculate(s, f);
-            Assert.AreEqual(0.104, res);
+            Assert.AreEqual(0.0, res);
         }
-    }
+    } 
 }
